@@ -92,7 +92,7 @@ PWM_STEERING_THROTTLE = {
     "STEERING_CENTER_PWM": 300,             #pwm value for center steering
     "THROTTLE_FORWARD_PWM": 400,            #pwm value for max forward throttle
     "THROTTLE_STOPPED_PWM": 370,            #pwm value for no movement
-    "THROTTLE_REVERSE_PWM": 370,            #pwm value for max reverse throttle
+    "THROTTLE_REVERSE_PWM": 360,            #pwm value for max reverse throttle
 }
 
 #
